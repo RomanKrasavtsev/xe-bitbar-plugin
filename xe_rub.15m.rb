@@ -4,7 +4,7 @@
 # <bitbar.version>v1.0</bitbar.version>
 # <bitbar.author>Roman Krasavtsev</bitbar.author>
 # <bitbar.author.github>RomanKrasavtsev</bitbar.author.github>
-# <bitbar.desc>EUR/RUB Currency Pair from xe.com</bitbar.desc>
+# <bitbar.desc>*/RUB currency pair from xe.com</bitbar.desc>
 # <bitbar.image>https://raw.github.com/romankrasavtsev/bitbar-plugins/master/eur_rub_emoji.png</bitbar.image>
 # <bitbar.dependencies>ruby</bitbar.dependencies>
 # <bitbar.abouturl>https://github.com/RomanKrasavtsev/bitbar-plugins</bitbar.abouturl>
