@@ -1,6 +1,6 @@
 ## xe-rub-bitbar
 Plugin for [BitBar](https://github.com/matryer/bitbar).
-\*/RUB currency pair from xe.com
+\*/RUB currency pair from [xe.com](http://www.xe.com/)
 
 ###Sign mode
 ![BitBar Example showing plugin](https://raw.github.com/romankrasavtsev/xe-rub-bitbar-plugin/master/xe_rub_sign.png)
