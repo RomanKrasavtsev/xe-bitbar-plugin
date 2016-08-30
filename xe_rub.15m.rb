@@ -1,13 +1,13 @@
 #!/usr/bin/env ruby
 
-# <bitbar.title>EUR/RUB Currency Pair</bitbar.title>
+# <bitbar.title>*/RUB Currency Pair</bitbar.title>
 # <bitbar.version>v1.0</bitbar.version>
 # <bitbar.author>Roman Krasavtsev</bitbar.author>
 # <bitbar.author.github>RomanKrasavtsev</bitbar.author.github>
 # <bitbar.desc>*/RUB currency pair from xe.com</bitbar.desc>
-# <bitbar.image>https://raw.github.com/romankrasavtsev/bitbar-plugins/master/eur_rub_emoji.png</bitbar.image>
+# <bitbar.image>https://raw.github.com/romankrasavtsev/xe-rub-bitbar-plugin/master/xe_rub_emoji.png</bitbar.image>
 # <bitbar.dependencies>ruby</bitbar.dependencies>
-# <bitbar.abouturl>https://github.com/RomanKrasavtsev/bitbar-plugins</bitbar.abouturl>
+# <bitbar.abouturl>https://github.com/RomanKrasavtsev/xe-rub-bitbar-plugin</bitbar.abouturl>
 
 require "nokogiri"
 require "open-uri"
