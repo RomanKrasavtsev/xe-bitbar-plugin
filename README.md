@@ -1,4 +1,4 @@
-## xe-rub-bitbar
+## xe-rub-bitbar-plugin
 Plugin for [BitBar](https://github.com/matryer/bitbar).
 \*/RUB currency pair from [xe.com](http://www.xe.com/)
 
