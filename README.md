@@ -18,6 +18,8 @@ Plugin for [BitBar](https://github.com/matryer/bitbar).
  - CAD - Canadian dollar 🇨🇦
  - TRY - Turkish lira 🇹🇷
 
+ You could try to use another currency, but you should add sign to get_sign method.
+
 ### How to use
  - Install ruby
  - Install gem [nokogiri](http://www.nokogiri.org/tutorials/installing_nokogiri.html)

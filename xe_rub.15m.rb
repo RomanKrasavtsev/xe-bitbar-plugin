@@ -53,7 +53,7 @@ def get_sign emoji, currency
   when "TRY"
     sign = emoji ? "🇹🇷" : "₺"
   else
-    sign = "Unknown currency"
+    sign = currency
   end
 
   sign
@@ -68,6 +68,9 @@ end
 # CNY - Chinese yuan
 # CAD - Canadian dollar
 # TRY - Turkish lira
+
+# You could try to use another currency,
+# but you should add sign to def get_sign
 
 emoji = true
 puts get_exchange_rate emoji, "USD", "EUR", "GBP", "CAD"
