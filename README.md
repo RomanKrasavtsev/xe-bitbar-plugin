@@ -9,6 +9,9 @@ Plugin for [BitBar](https://github.com/matryer/bitbar).
 ![BitBar Example showing plugin](https://raw.github.com/romankrasavtsev/xe-rub-bitbar-plugin/master/xe_rub_emoji.png)
 
 ### Supported currencies
+
+ > You could try to use another currency, but you should add sign to get_sign method.
+
  - USD - United States dollar 🇺🇸
  - EUR - Euro 🇪🇺
  - GBP - British pound 🇬🇧
@@ -17,8 +20,6 @@ Plugin for [BitBar](https://github.com/matryer/bitbar).
  - CNY - Chinese yuan 🇨🇳
  - CAD - Canadian dollar 🇨🇦
  - TRY - Turkish lira 🇹🇷
-
- > You could try to use another currency, but you should add sign to get_sign method.
 
 ### How to use
  - Install ruby
