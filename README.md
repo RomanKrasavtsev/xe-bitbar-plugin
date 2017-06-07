@@ -2,10 +2,10 @@
 Plugin for [BitBar](https://github.com/matryer/bitbar).
 \*/RUB currency pair from [xe.com](http://www.xe.com/)
 
-###Sign mode
+### Sign mode
 ![BitBar Example showing plugin](https://raw.github.com/romankrasavtsev/xe-rub-bitbar-plugin/master/xe_rub_sign.png)
 
-###Emoji mode
+### Emoji mode
 ![BitBar Example showing plugin](https://raw.github.com/romankrasavtsev/xe-rub-bitbar-plugin/master/xe_rub_emoji.png)
 
 ### Supported currencies
